@@ -2,56 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="31b5026c-d3cc-4ba3-9ce7-c43334c5b859" name="Default" comment="">
-      <change afterPath="$PROJECT_DIR$/src/algorithm/Numbers2.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/CodingExamNovember2018.iml" beforeDir="false" afterPath="$PROJECT_DIR$/CodingExamNovember2018.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/CodingExamNovember2018/algorithm/Numbers.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/CodingExamNovember2018/algorithm/Sort.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/CodingExamNovember2018/algorithm/UnitTestSorting.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/CodingExamNovember2018/codelab/status/CsvReader.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/CodingExamNovember2018/codelab/status/Trainee.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/CodingExamNovember2018/codelab/status/codelab-roster-file.csv" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/CodingExamNovember2018/databases/ConnectToMongoDB.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/CodingExamNovember2018/databases/ConnectToSqlDB.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/CodingExamNovember2018/databases/UnitTestConnectDB.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/CodingExamNovember2018/databases/User.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/CodingExamNovember2018/datastructure/CollectionView.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/CodingExamNovember2018/datastructure/DataReader.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/CodingExamNovember2018/datastructure/UseArrayList.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/CodingExamNovember2018/datastructure/UseMap.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/CodingExamNovember2018/datastructure/UseQueue.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/CodingExamNovember2018/design/Employee.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/CodingExamNovember2018/design/EmployeeInfo$1.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/CodingExamNovember2018/design/EmployeeInfo$DateConversion.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/CodingExamNovember2018/design/EmployeeInfo.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/CodingExamNovember2018/design/FortuneEmployee.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/CodingExamNovember2018/design/Months.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/CodingExamNovember2018/design/UnitTestingEmployeeInfo.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/CodingExamNovember2018/json/parser/CnnAPI.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/CodingExamNovember2018/json/parser/Employee.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/CodingExamNovember2018/json/parser/JsonReaderUtil.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/CodingExamNovember2018/math/problems/Factorial.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/CodingExamNovember2018/math/problems/Fibonacci.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/CodingExamNovember2018/math/problems/FindLowestDifference.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/CodingExamNovember2018/math/problems/FindMissingNumber.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/CodingExamNovember2018/math/problems/LowestNumber.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/CodingExamNovember2018/math/problems/MakePyramid.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/CodingExamNovember2018/math/problems/Pattern.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/CodingExamNovember2018/math/problems/PrimeNumber.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/CodingExamNovember2018/math/problems/UnitTestingMath.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/CodingExamNovember2018/parser/ProcessStudentInfo.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/CodingExamNovember2018/parser/Student.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/CodingExamNovember2018/parser/UnitTestingStudentProfile.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/CodingExamNovember2018/parser/XmlReader.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/CodingExamNovember2018/string/problems/Anagram.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/CodingExamNovember2018/string/problems/DetermineLargestWord.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/CodingExamNovember2018/string/problems/DuplicateWord.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/CodingExamNovember2018/string/problems/Palindrome.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/CodingExamNovember2018/string/problems/Permutation.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/CodingExamNovember2018/string/problems/UnitTestingStringProblem.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/definition/core-java-conceptual-questions" beforeDir="false" afterPath="$PROJECT_DIR$/src/definition/core-java-conceptual-questions" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/secret.properties" beforeDir="false" afterPath="$PROJECT_DIR$/src/secret.properties" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -86,8 +37,8 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/definition/core-java-conceptual-questions">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="30">
-              <caret line="2" column="28" lean-forward="true" selection-start-line="2" selection-end-line="2" selection-end-column="28" />
+            <state relative-caret-position="60">
+              <caret line="4" selection-start-line="4" selection-end-line="4" />
             </state>
           </provider>
         </entry>
@@ -177,7 +128,7 @@
   <component name="PropertiesComponent">
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1545581911377" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1545582126061" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="project.structure.last.edited" value="Modules" />
     <property name="project.structure.proportion" value="0.15" />
@@ -335,12 +286,12 @@
       <option name="presentableId" value="Default" />
       <updated>1545523657144</updated>
       <workItem from="1545575632672" duration="527000" />
-      <workItem from="1545576198959" duration="2367000" />
+      <workItem from="1545576198959" duration="2886000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="2894000" />
+    <option name="totallyTimeSpent" value="3413000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="173" y="23" width="1398" height="946" extended-state="0" />
@@ -681,8 +632,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/definition/core-java-conceptual-questions">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="30">
-          <caret line="2" column="28" lean-forward="true" selection-start-line="2" selection-end-line="2" selection-end-column="28" />
+        <state relative-caret-position="60">
+          <caret line="4" selection-start-line="4" selection-end-line="4" />
         </state>
       </provider>
     </entry>
