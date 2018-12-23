@@ -32,7 +32,15 @@ public class CsvReader {
                 roster.add(new Trainee(name[5].replace("\"", ""), name[4].replace("\"",
                         ""), Integer.parseInt(name[10])));
 
+
+
+
+                }
+
+
+
             }
+
 
         } catch (IOException e) {
             e.printStackTrace();
