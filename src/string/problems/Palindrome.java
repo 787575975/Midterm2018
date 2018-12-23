@@ -1,5 +1,7 @@
 package string.problems;
 
+import java.util.Scanner;
+
 public class Palindrome {
     public static void main(String[] args) {
         /*
@@ -7,5 +9,27 @@ public class Palindrome {
           Palindrome. So write java code to check if a given String is Palindrome or not.
          */
 
+
+        // 1. input String , take the user input
+        String reverse = "";//  be certain that this is empty String
+        System.out.println(" Enter input String ");
+        Scanner sc = new Scanner(System.in);
+        String original = sc.nextLine();
+        // 2.find a reverse of String
+
+        for( int i =original.length()-1;i>=0; i--){// it means take it from the last index
+            reverse = reverse +original.charAt(i); // take the original String and putin to the empty String
+            //from back , cause reverse will be back .
+        }
+        // 3.check original String and reverse String same or not
+        if(original.equals(reverse)){
+            System.out.println("This is String palindrome");
+        }else{
+            System.out.println("This is String  not palindrome");
+        }
+
     }
 }
+
+
+
