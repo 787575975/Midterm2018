@@ -2,11 +2,14 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="31b5026c-d3cc-4ba3-9ce7-c43334c5b859" name="Default" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/CodingExamNovember2018/math/problems/LowestNumber.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/CodingExamNovember2018/math/problems/MakePyramid.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/CodingExamNovember2018/math/problems/MakePyramid.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/math/problems/Factorial.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/math/problems/Factorial.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/math/problems/FindMissingNumber.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/math/problems/FindMissingNumber.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/math/problems/LowestNumber.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/math/problems/LowestNumber.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/math/problems/MakePyramid.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/math/problems/MakePyramid.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/math/problems/Pattern.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/math/problems/Pattern.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/math/problems/PrimeNumber.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/math/problems/PrimeNumber.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/math/problems/UnitTestingMath.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/math/problems/UnitTestingMath.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/string/problems/Anagram.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/string/problems/Anagram.java" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -20,8 +23,8 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/math/problems/FindLowestDifference.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="30">
-              <caret line="2" column="34" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="34" />
+            <state relative-caret-position="330">
+              <caret line="22" column="50" lean-forward="true" selection-start-line="20" selection-end-line="22" selection-end-column="50" />
             </state>
           </provider>
         </entry>
@@ -29,8 +32,17 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/math/problems/FindMissingNumber.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="225">
-              <caret line="15" column="12" selection-start-line="15" selection-start-column="12" selection-end-line="15" selection-end-column="12" />
+            <state relative-caret-position="355">
+              <caret line="52" column="1" selection-start-line="52" selection-start-column="1" selection-end-line="52" selection-end-column="1" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/string/problems/Anagram.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="315">
+              <caret line="21" column="45" lean-forward="true" selection-start-line="21" selection-start-column="45" selection-end-line="21" selection-end-column="45" />
             </state>
           </provider>
         </entry>
@@ -38,17 +50,65 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/math/problems/MakePyramid.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="60">
-              <caret line="4" column="4" selection-start-line="4" selection-start-column="4" selection-end-line="4" selection-end-column="4" />
+            <state relative-caret-position="30">
+              <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/algorithm/Numbers.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="-256">
+              <caret line="20" column="7" selection-start-line="20" selection-start-column="7" selection-end-line="20" selection-end-column="7" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/math/problems/UnitTestingMath.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="300">
+              <caret line="20" column="53" selection-start-line="20" selection-start-column="53" selection-end-line="20" selection-end-column="53" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/secret.properties">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="75">
+              <caret line="5" selection-start-line="5" selection-end-line="5" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/math/problems/Factorial.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="75">
+              <caret line="5" column="13" selection-start-line="5" selection-start-column="13" selection-end-line="5" selection-end-column="13" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/math/problems/LowestNumber.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="345">
-              <caret line="23" column="30" selection-start-line="23" selection-start-column="30" selection-end-line="23" selection-end-column="30" />
+            <state relative-caret-position="330">
+              <caret line="22" column="11" lean-forward="true" selection-start-line="22" selection-start-column="11" selection-end-line="22" selection-end-column="11" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/math/problems/Pattern.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="600">
+              <caret line="40" column="1" selection-start-line="40" selection-start-column="1" selection-end-line="40" selection-end-column="1" />
             </state>
           </provider>
         </entry>
@@ -80,16 +140,21 @@
         <option value="$PROJECT_DIR$/src/definition/data-structure-questions" />
         <option value="$PROJECT_DIR$/src/math/problems/FindLowestDifference.java" />
         <option value="$PROJECT_DIR$/src/codelab/status/CsvReader.java" />
-        <option value="$PROJECT_DIR$/src/math/problems/FindMissingNumber.java" />
-        <option value="$PROJECT_DIR$/src/math/problems/MakePyramid.java" />
         <option value="$PROJECT_DIR$/src/math/problems/LowestNumber.java" />
+        <option value="$PROJECT_DIR$/src/math/problems/Pattern.java" />
+        <option value="$PROJECT_DIR$/src/math/problems/MakePyramid.java" />
+        <option value="$PROJECT_DIR$/src/math/problems/PrimeNumber.java" />
+        <option value="$PROJECT_DIR$/src/math/problems/Factorial.java" />
+        <option value="$PROJECT_DIR$/src/math/problems/UnitTestingMath.java" />
+        <option value="$PROJECT_DIR$/src/string/problems/Anagram.java" />
+        <option value="$PROJECT_DIR$/src/math/problems/FindMissingNumber.java" />
       </list>
     </option>
   </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="138" />
+    <option name="x" value="66" />
     <option name="y" value="23" />
-    <option name="width" value="1398" />
+    <option name="width" value="1213" />
     <option name="height" value="946" />
   </component>
   <component name="ProjectView">
@@ -127,6 +192,12 @@
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="problems" type="462c0819:PsiDirectoryNode" />
             </path>
+            <path>
+              <item name="MidtermNovember2018" type="b2602c69:ProjectViewProjectNode" />
+              <item name="MidtermNovember2018" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="problems" type="462c0819:PsiDirectoryNode" />
+            </path>
           </expand>
           <select />
         </subPane>
@@ -138,7 +209,7 @@
   <component name="PropertiesComponent">
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1545592879519" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1545599906480" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="project.structure.last.edited" value="Modules" />
     <property name="project.structure.proportion" value="0.15" />
@@ -162,20 +233,20 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.LowestNumber">
+  <component name="RunManager" selected="Application.Anagram">
     <configuration default="true" type="Applet">
       <option name="POLICY_FILE" value="$APPLICATION_HOME_DIR$/bin/appletviewer.policy" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="CsvReader" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="codelab.status.CsvReader" />
+    <configuration name="Anagram" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="string.problems.Anagram" />
       <module name="CodingExamNovember2018" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="codelab.status.*" />
+          <option name="PATTERN" value="string.problems.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -183,8 +254,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="FindLowestDifference" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="math.problems.FindLowestDifference" />
+    <configuration name="Factorial" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="math.problems.Factorial" />
       <module name="CodingExamNovember2018" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
       <extension name="coverage">
@@ -211,8 +282,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="LowestNumber" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="math.problems.LowestNumber" />
+    <configuration name="MakePyramid" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="math.problems.MakePyramid" />
       <module name="CodingExamNovember2018" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
       <extension name="coverage">
@@ -225,8 +296,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="MakePyramid" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="math.problems.MakePyramid" />
+    <configuration name="UnitTestingMath" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="math.problems.UnitTestingMath" />
       <module name="CodingExamNovember2018" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
       <extension name="coverage">
@@ -269,19 +340,19 @@
       </method>
     </configuration>
     <list>
-      <item itemvalue="Application.CsvReader" />
-      <item itemvalue="Application.FindLowestDifference" />
+      <item itemvalue="Application.UnitTestingMath" />
+      <item itemvalue="Application.Factorial" />
       <item itemvalue="Application.FindMissingNumber" />
       <item itemvalue="Application.MakePyramid" />
-      <item itemvalue="Application.LowestNumber" />
+      <item itemvalue="Application.Anagram" />
     </list>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.LowestNumber" />
-        <item itemvalue="Application.MakePyramid" />
+        <item itemvalue="Application.Anagram" />
         <item itemvalue="Application.FindMissingNumber" />
-        <item itemvalue="Application.FindLowestDifference" />
-        <item itemvalue="Application.CsvReader" />
+        <item itemvalue="Application.UnitTestingMath" />
+        <item itemvalue="Application.MakePyramid" />
+        <item itemvalue="Application.Factorial" />
       </list>
     </recent_temporary>
   </component>
@@ -297,18 +368,17 @@
       <updated>1545523657144</updated>
       <workItem from="1545575632672" duration="527000" />
       <workItem from="1545576198959" duration="10432000" />
-      <workItem from="1545592659340" duration="259000" />
+      <workItem from="1545592659340" duration="7585000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="11218000" />
+    <option name="totallyTimeSpent" value="18544000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="138" y="23" width="1398" height="946" extended-state="0" />
-    <editor active="true" />
+    <frame x="66" y="23" width="1213" height="946" extended-state="0" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.23746313" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.18445773" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Image Layers" order="2" />
       <window_info id="Designer" order="3" />
@@ -317,15 +387,15 @@
       <window_info id="Favorites" order="6" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info anchor="bottom" id="Run" order="2" weight="0.37002343" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.42388758" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.39892185" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" />
-      <window_info anchor="bottom" id="Terminal" order="7" weight="0.3290398" />
+      <window_info active="true" anchor="bottom" id="Terminal" order="7" visible="true" weight="0.3290398" />
       <window_info anchor="bottom" id="Event Log" order="8" side_tool="true" />
       <window_info anchor="bottom" id="Version Control" order="9" show_stripe_button="false" />
-      <window_info active="true" anchor="bottom" id="Messages" order="10" visible="true" weight="0.3290398" />
+      <window_info anchor="bottom" id="Messages" order="10" weight="0.2857143" />
       <window_info anchor="bottom" id="Docker" order="11" show_stripe_button="false" />
       <window_info anchor="bottom" id="Database Changes" order="12" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
@@ -341,7 +411,7 @@
       <window_info anchor="right" id="Database" order="10" />
     </layout>
     <layout-to-restore>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.23746313" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.18445773" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Image Layers" order="2" />
       <window_info id="Designer" order="3" />
@@ -350,15 +420,15 @@
       <window_info id="Favorites" order="6" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info anchor="bottom" id="Run" order="2" weight="0.37061995" />
-      <window_info anchor="bottom" id="Debug" order="3" visible="true" weight="0.39892185" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.42388758" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.39892185" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" />
-      <window_info anchor="bottom" id="Terminal" order="7" />
+      <window_info anchor="bottom" id="Terminal" order="7" weight="0.3290398" />
       <window_info anchor="bottom" id="Event Log" order="8" side_tool="true" />
       <window_info anchor="bottom" id="Version Control" order="9" show_stripe_button="false" />
-      <window_info anchor="bottom" id="Messages" order="10" />
+      <window_info anchor="bottom" id="Messages" order="10" weight="0.2857143" />
       <window_info anchor="bottom" id="Docker" order="11" show_stripe_button="false" />
       <window_info anchor="bottom" id="Database Changes" order="12" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
@@ -491,13 +561,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/string/problems/Anagram.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="95">
-          <caret line="5" column="13" selection-start-line="5" selection-start-column="13" selection-end-line="5" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/parser/XmlReader.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="152">
@@ -514,13 +577,6 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/parser/selenium.xml">
       <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/math/problems/Factorial.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="95">
-          <caret line="5" column="13" selection-start-line="5" selection-start-column="13" selection-end-line="5" selection-end-column="13" />
-        </state>
-      </provider>
     </entry>
     <entry file="file://$USER_HOME$/Downloads/Java-Midterm-master /src/algorithm/Numbers.java">
       <provider selected="true" editor-type-id="text-editor" />
@@ -580,13 +636,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/math/problems/Fibonacci.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="165">
-          <caret line="11" column="34" lean-forward="true" selection-start-line="11" selection-start-column="34" selection-end-line="11" selection-end-column="34" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/definition/data-structure-questions">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="1980">
@@ -612,13 +661,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/math/problems/FindMissingNumber.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="225">
-          <caret line="15" column="12" selection-start-line="15" selection-start-column="12" selection-end-line="15" selection-end-column="12" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/algorithm/Numbers2.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="375">
@@ -629,10 +671,87 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/algorithm/Numbers.java">
+    <entry file="file://$PROJECT_DIR$/src/algorithm/Sort.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="105">
+          <caret line="7" column="59" lean-forward="true" selection-start-line="7" selection-start-column="59" selection-end-line="7" selection-end-column="59" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/math/problems/Fibonacci.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="165">
+          <caret line="11" column="34" lean-forward="true" selection-start-line="11" selection-start-column="34" selection-end-line="11" selection-end-column="34" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/math/problems/Pattern.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="600">
+          <caret line="40" column="1" selection-start-line="40" selection-start-column="1" selection-end-line="40" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/math/problems/PrimeNumber.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="240">
+          <caret line="16" column="36" selection-start-line="16" selection-start-column="36" selection-end-line="16" selection-end-column="36" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/math/problems/LowestNumber.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="330">
+          <caret line="22" column="11" lean-forward="true" selection-start-line="22" selection-start-column="11" selection-end-line="22" selection-end-column="11" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/math/problems/MakePyramid.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="30">
+          <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/math/problems/Factorial.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="75">
+          <caret line="5" column="13" selection-start-line="5" selection-start-column="13" selection-end-line="5" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/math/problems/FindLowestDifference.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="330">
+          <caret line="22" column="50" lean-forward="true" selection-start-line="20" selection-end-line="22" selection-end-column="50" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/math/problems/FindMissingNumber.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="355">
+          <caret line="52" column="1" selection-start-line="52" selection-start-column="1" selection-end-line="52" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/math/problems/UnitTestingMath.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="300">
-          <caret line="20" column="7" lean-forward="true" selection-start-line="20" selection-start-column="7" selection-end-line="20" selection-end-column="7" />
+          <caret line="20" column="53" selection-start-line="20" selection-start-column="53" selection-end-line="20" selection-end-column="53" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/string/problems/Anagram.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="315">
+          <caret line="21" column="45" lean-forward="true" selection-start-line="21" selection-start-column="45" selection-end-line="21" selection-end-column="45" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/algorithm/Numbers.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-256">
+          <caret line="20" column="7" selection-start-line="20" selection-start-column="7" selection-end-line="20" selection-end-column="7" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
@@ -643,34 +762,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="75">
           <caret line="5" selection-start-line="5" selection-end-line="5" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/algorithm/Sort.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="105">
-          <caret line="7" column="59" lean-forward="true" selection-start-line="7" selection-start-column="59" selection-end-line="7" selection-end-column="59" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/math/problems/FindLowestDifference.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="30">
-          <caret line="2" column="34" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="34" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/math/problems/MakePyramid.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="60">
-          <caret line="4" column="4" selection-start-line="4" selection-start-column="4" selection-end-line="4" selection-end-column="4" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/math/problems/LowestNumber.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="345">
-          <caret line="23" column="30" selection-start-line="23" selection-start-column="30" selection-end-line="23" selection-end-column="30" />
         </state>
       </provider>
     </entry>
