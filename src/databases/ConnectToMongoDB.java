@@ -1,5 +1,7 @@
 package databases;
 
+
+
 import com.mongodb.BasicDBObject;
 import com.mongodb.MongoClient;
 import com.mongodb.client.FindIterable;
@@ -11,7 +13,6 @@ import parser.Student;
 import java.util.ArrayList;
 import java.util.List;
 
-
 /**
  * Created by mrahman on 09/09/18.
  */
@@ -19,6 +20,8 @@ import java.util.List;
 public class ConnectToMongoDB {
 
     public static MongoDatabase mongoDatabase = null;
+
+
 
     public static MongoDatabase connectToMongoDB() {
         MongoClient mongoClient = new MongoClient();

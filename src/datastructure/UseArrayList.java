@@ -18,10 +18,10 @@ public class UseArrayList {
 		 */
 
 		List<Integer> l = new ArrayList<Integer>();
-		l.add(12);
-		l.add(36);
-		l.add(9);
-		l.add(89);
+		l.add(14);
+		l.add(350);
+		l.add(10);
+		l.add(85);
 		l.add(7);
 
 

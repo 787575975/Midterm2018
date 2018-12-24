@@ -17,6 +17,7 @@ public class User {
 
     }
     public String getStName() {
+
         return stName;
     }
 
@@ -29,6 +30,7 @@ public class User {
     }
 
     public void setStID(String stID) {
+
         this.stID = stID;
     }
 
@@ -37,6 +39,7 @@ public class User {
     }
 
     public void setStDOB(String stDOB) {
+
         this.stDOB = stDOB;
     }
 }
