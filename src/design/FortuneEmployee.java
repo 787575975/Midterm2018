@@ -15,7 +15,7 @@ public class FortuneEmployee {
 	 **/
 	public static void main(String[] args) {
 		
-
+	people empoly = new
 
 	}
 

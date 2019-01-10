@@ -1,8 +1,10 @@
 package design;
 
+import javax.print.DocFlavor;
+import javax.xml.transform.sax.SAXResult;
 import java.util.Scanner;
 
-public class EmployeeInfo implements Employee {
+public class EmployeeInfo<years> extends People implements Employee {
 	
  /*This class can be implemented from Employee interface then add additional methods in EmployeeInfo class.
  * Also, Employee interface can be implemented into an abstract class.So create an Abstract class
@@ -16,6 +18,13 @@ public class EmployeeInfo implements Employee {
  * Use Exception Handling.
  *
  */
+ static String companyName;
+ private int id;
+ private String name;
+ private String dep;
+ public static final int Salary = 65000;
+ public int year = 0;
+
 
 	/*
 	 * declare few static and final fields and some non-static fields
@@ -33,12 +42,27 @@ public class EmployeeInfo implements Employee {
 	 * Must implement below constructor.
 	 */
 	public EmployeeInfo(int employeeId){
-		
+		this.id = employeeId;
+	}
+
 	}
     public EmployeeInfo(String name, int employeeId){
-		
+	this.name = name;
+	this.id = employeeId;
+
 	}
-	
+public <employeeId> EmployeeInfo(String name, int, employeeId, double height, String background) {
+			super(height, background);
+			this.name= name;
+			this.id= employeeId();
+}
+
+
+
+
+
+
+
 	/*
 	 * This methods should calculate Employee bonus based on salary and performance.
 	 * Then it will return the total yearly bonus. So you need to implement the logic.
@@ -47,57 +71,86 @@ public class EmployeeInfo implements Employee {
 	 * So you probably need to send 2 arguments.
 	 * 
 	 */
-	public static int calculateEmployeeBonus(int numberOfYearsWithCompany){
-		int total=0;
-		return total;
-	}
-	
-	/*
-	 * This methods should calculate Employee Pension based on salary and numbers of years with the company.
-	 * Then it will return the total pension. So you need to implement the logic.
-	 * Hints: pension will be 5% of the salary for 1 year, 10% for 2 years with the company and so on.
-	 * 
-	 */
-	public static int calculateEmployeePension(){
-		int total=0;
-		Scanner sc  = new Scanner(System.in);
-		System.out.println("Please enter start date in format (example: May,2015): ");
-		String joiningDate = sc.nextLine();
-		System.out.println("Please enter today's date in format (example: August,2017): ");
-		String todaysDate = sc.nextLine();
-        String convertedJoiningDate = DateConversion.convertDate(joiningDate);
-        String convertedTodaysDate = DateConversion.convertDate(todaysDate);
+	public double calculateEmployeeBouns() {
+		double performance = 0;
+		if (year >= 10) {
+			performance = .20;
+		} else if (year < 10 && year >= 5) {
+			performance = .05;
 
-        //implement numbers of year from above two dates
-		//Calculate pension
+		} else {
+			System.out.println("No bounes are for employees that have been in the company over a year.");
+		}
+
+		double total = (Salary * performance);
+		System.out.println("Bouns : + total");
+		return total;
+		/*
+		 * This methods should calculate Employee Pension based on salary and numbers of years with the company.
+		 * Then it will return the total pension. So you need to implement the logic.
+		 * Hints: pension will be 5% of the salary for 1 year, 10% for 2 years with the company and so on.
+		 *
+		 */
+		public static int calculateEmployeePension () {
+			int total = 0;
+			Scanner sc = new Scanner(System.in);
+			System.out.println("Please enter start date in format (example: May,2015): ");
+			String joiningDate = sc.nextLine();
+			System.out.println("Please enter today's date in format (example: August,2017): ");
+			String todaysDate = sc.nextLine();
+			String convertedJoiningDate = DateConversion.convertDate(joiningDate);
+			String convertedTodaysDate = DateConversion.convertDate(todaysDate);
+
+			//implement numbers of year from above two dates
+			//Calculate pension
+			try {
+				this.year = Integer.parseInt("Pension are only for employees that have worked more that a year only");
+				return 0;
+
+
+			}
+
+			(Exception e){
+				System.out.println("Error");
+
+				total;
+		}
+	}
+
 
 		return total;
 
 		@Override
 		public int employeeId() {
-			return 0;
+			return this.id;
 		}
 
 		@Override
 		public String employeeName() {
-			return null;
+			return this.name;
 		}
 
 		@Override
 		public void assignDepartment() {
+this.dep = d;
 
 		}
 
 		@Override
 		public int calculateSalary() {
-			return 0;
+			return this.Salary;
 		}
 
 		@Override
 		public void benefitLayout() {
-
+			System.out.println("Employee has many benefits");
 		}
 
+			@Override
+					public double foodbill(){
+			System.out.println("bill is "+ (double)this.Salary* .05)+"$$";
+			return this.Salary * .05;
+		}
 
 	}
 	private static class DateConversion {
